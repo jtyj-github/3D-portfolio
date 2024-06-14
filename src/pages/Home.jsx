@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { Canvas } from '@react-three/fiber';
 
 const Home = () => {
     return (
@@ -6,7 +7,7 @@ const Home = () => {
             {/* <div className='absolute top-28 left-0 right-0 z-10 flex items-center justify-center'>
                 POP-UP Card component
             </div> */}
-            
+
         </section>
     )
 }
