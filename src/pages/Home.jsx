@@ -2,6 +2,7 @@ import { Suspense } from 'react';
 import { Canvas } from '@react-three/fiber';
 import Loader from '../components/Loader';
 import Island from '../models/island';
+import Sky from '../models/sky';
 
 {/* <div className='absolute top-28 left-0 right-0 z-10 flex items-center justify-center'>
     POP-UP Card component
@@ -34,6 +35,7 @@ const Home = () => {
                     <ambientLight intensity={0.5} />
                     <hemisphereLight skyColor='b1e1ff' groundColor='000000' intensity={1} />
 
+                    <Sky />
                     <Island 
                         position = {islandPosition} 
                         scale = {islandScale} 
