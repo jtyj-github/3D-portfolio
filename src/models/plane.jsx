@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unknown-property */
+/* eslint-disable react/react-in-jsx-scope */
 import { useRef, useEffect } from 'react'
 import planeScene from '../assets/3d/plane.glb'
 import { useAnimations, useGLTF } from '@react-three/drei'
