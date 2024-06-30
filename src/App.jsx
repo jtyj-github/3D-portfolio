@@ -1,6 +1,7 @@
+/* eslint-disable react/react-in-jsx-scope */
 import {Route, BrowserRouter as Router, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar'
-import { About, Contact, Home, Projects } from './pages'
+import { About, Resume, Home, Projects } from './pages'
 
 const App = () => {
     return (
@@ -11,7 +12,7 @@ const App = () => {
                     <Route path='/' element={<Home />} />
                     <Route path='/about' element={<About />} />
                     <Route path='/projects' element={<Projects />} />
-                    <Route path='/contact' element={<Contact />} />
+                    <Route path='/resume' element={<Resume />} />
                 </Routes>
             </Router>
         </main>
