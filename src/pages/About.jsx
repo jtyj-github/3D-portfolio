@@ -11,8 +11,13 @@ const About = () => {
                 Hello, I'm <span className='blue-gradient_text font-semibold drop-shadow'>Justin</span>
             </h1>
             <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-                <p className='text-md'>
-                    I am a Full Stack Developer based in Singapore. I am passionate about creating beautiful and functional websites and applications. I have experience working with React, Node.js, Express, and MongoDB. I am constantly learning new technologies and frameworks to improve my skills.
+                <p className='text-lg'>
+                    I am a Digital Solutions Engineer based in Singapore. I am currently pursuing a career in software development and am passionate about building web applications that are both functional and visually appealing. 
+                    I am proficient in both frontend and backend technologies and am always looking to learn new skills.
+                </p>
+                <p className='text-lg'>
+                    Outside of work, you can find me rock climbing at various gyms around Singapore or building webapps with friends for fun.
+                    I'm always looking to expand my network and meet new people, so feel free to reach out to me on LinkedIn or via email! 
                 </p>
             </div>
             <div className='py-10 flex flex-col'>
@@ -34,8 +39,8 @@ const About = () => {
             <div className='py-16'>
                 <h3 className='subhead-text'> Work Experience </h3>
                 <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-                <p className='text-md'>
-                    Placeholder work experience
+                <p className='text-lg'>
+                    I've had the opportunity to work with some amazing companies and teams throughout my career. Here are some of my work experience so far:
                 </p>
             </div>
             <div className='mt-12 flex'>
