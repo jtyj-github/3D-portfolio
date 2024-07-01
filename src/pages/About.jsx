@@ -17,7 +17,7 @@ const About = () => {
                 </p>
                 <p className='text-lg'>
                     Outside of work, you can find me rock climbing at various gyms around Singapore or building webapps with friends for fun.
-                    I'm always looking to expand my network and meet new people, so feel free to reach out to me on LinkedIn or via email! 
+                    I'm always looking to expand my network and meet new people, so feel free to reach out to me on LinkedIn! 
                 </p>
             </div>
             <div className='py-10 flex flex-col'>
