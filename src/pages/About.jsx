@@ -8,7 +8,7 @@ const About = () => {
     return (
         <section className='max-container'>
             <h1 className='head-text'>
-                Hello, I'm <span className='blue-gradient_text font-semibold drop-shadow'>Justin</span>
+                Hello, I&apos;m <span className='blue-gradient_text font-semibold drop-shadow'>Justin</span>
             </h1>
             <div className='mt-5 flex flex-col gap-3 text-slate-500'>
                 <p className='text-lg'>
@@ -17,7 +17,7 @@ const About = () => {
                 </p>
                 <p className='text-lg'>
                     Outside of work, you can find me rock climbing at various gyms around Singapore or building webapps with friends for fun.
-                    I'm always looking to expand my network and meet new people, so feel free to reach out to me on LinkedIn! 
+                    I&apos;m always looking to expand my network and meet new people, so feel free to reach out to me on LinkedIn! 
                 </p>
             </div>
             <div className='py-10 flex flex-col'>
@@ -40,7 +40,7 @@ const About = () => {
                 <h3 className='subhead-text'> Work Experience </h3>
                 <div className='mt-5 flex flex-col gap-3 text-slate-500'>
                 <p className='text-lg'>
-                    I've had the opportunity to work with some amazing companies and teams throughout my career. Here are some of my work experience so far:
+                    I&apos;ve had the opportunity to work with some amazing companies and teams throughout my career. Here are some of my work experience so far:
                 </p>
             </div>
             <div className='mt-12 flex'>
