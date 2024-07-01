@@ -15,7 +15,6 @@ import typescript from './typescript.svg'
 import python from './python.svg'
 import linkedin from './linkedin.svg'
 import twitter from './twitter.svg'
-import car from './car.svg'
 import estate from './estate.svg'
 import pricewise from './pricewise.svg'
 import snapgram from './snapgram.svg'
@@ -44,7 +43,6 @@ export {
     typescript,
     linkedin,
     twitter,
-    car,
     estate,
     pricewise,
     snapgram,

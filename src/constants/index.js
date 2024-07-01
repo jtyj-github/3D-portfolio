@@ -1,7 +1,5 @@
 import {schneider} from "../assets/images";
 import {
-    car,
-    contact,
     css,
     estate,
     express,
@@ -122,11 +120,6 @@ export const experiences = [
 ];
 
 export const socialLinks = [
-    {
-        name: 'Contact',
-        iconUrl: contact,
-        link: '/contact',
-    },
     {
         name: 'GitHub',
         iconUrl: github,
